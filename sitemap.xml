@@ -3,33 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://15ho.github.io/authors/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://15ho.github.io/categories/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://15ho.github.io/series/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://15ho.github.io/tags/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://15ho.github.io/about/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://15ho.github.io/</loc>
-    <changefreq>always</changefreq>
+    <lastmod>2024-08-07T01:21:53+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://15ho.github.io/posts/</loc>
+    <lastmod>2024-08-07T01:21:53+08:00</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
 </urlset>
